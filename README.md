@@ -1,5 +1,5 @@
 # Lethal League Mod Loader
-A command line mod loader for Lethal League.
+A command line mod loader for Lethal League. Only for visual mods.
 
 **Note:** I don't have a mac, so I can't test for it, or confidently write any information about using the program on mac - there should be mac-equivalent guides for stuff somewhere out there.
 
@@ -16,6 +16,10 @@ Allows a user to select mod files that they want. The user will add mods to the 
 
 
 ## How To / Instructions
+### What you need from the respoitory
+ 1. LLML.properties
+ 1. LethalLeaugeModLoader.jar
+ 
 ### Set up the LLML.properties file:  
  1. Open with a text editor, and replace the paths that are there with the paths for your machine. (They are set for the windows default paths for Steam/LethalLeague)
 
