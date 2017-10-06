@@ -37,7 +37,8 @@ This step isn't required, but makes the program easier to run from command line.
   1. Click on the Environment Variables button at the bottom of the second pop-up window  
   1. Under System variables, double-click on 'Path'  
   1. Click on the 'New' button  
-  1. Type (or paste in) the path to the bin folder of java. (Probably going to be something like: c:\Program Files\Java\jre1.8.0_144\bin )  
+  1. Type (or paste in) the path to the bin folder of java.  
+  (Probably going to be something like: C:\Program Files\Java\jre1.8.0_144\bin )  
   1. Click on the OK button  
   1. Click on the OK button (again)
 
