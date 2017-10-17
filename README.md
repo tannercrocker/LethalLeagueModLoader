@@ -3,6 +3,7 @@ A command line mod loader for Lethal League. Only for visual/audio mods (any mod
 
 **Note:** I don't have a mac, so I can't test for it, or confidently write any information about using the program on mac - there should be mac-equivalent guides for stuff somewhere out there.
 
+**Note:** You must set up the backup/restore point folder. It should be set up like the mods folder, but the only item within the folder should be a resouces folder.
 
 ## What the program does
 Allows a user to select mod files that they want. The user will add mods to the queue, and then deploy the changes. The program will forget what mods were loaded previously when running the program a second time. All that this program does is overwrite image files that are used in Lethal League.
